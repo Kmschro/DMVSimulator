@@ -1,6 +1,7 @@
 import java.util.Random;
 class DMVSimulator {
     public static void main( String args[] ) {
+      System.out.println("Welcome to the DMV");
       Random rand = new Random(); 
       int upperbound = 100;
       int int_random = rand.nextInt(upperbound); 
