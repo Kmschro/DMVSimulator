@@ -9,6 +9,6 @@ class DMVSimulator {
         for (int i = 1; i <= int_random; i++){
             System.out.println(i);
         }
-        System.out.println("I am sorry to tell you, but you do not have the required paperwork.");
+        System.out.println("Dumbass, you do not have the required paperwork.");
     }
 }
