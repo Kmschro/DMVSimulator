@@ -9,13 +9,6 @@ class DMVSimulator {
         for (int i = 1; i <= int_random; i++){
             System.out.println(i);
         }
-        if (int_random > 99)
-        {
-            System.out.println("You have all your required documents");
-        }
-        else
-        {
-            System.out.println("Dumbass, you do not have the required paperwork.");
-        }
+        System.out.println("Dumbass, you do not have the required paperwork.");
     }
 }
