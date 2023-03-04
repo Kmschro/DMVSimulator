@@ -15,7 +15,7 @@ class DMVSimulator {
         }
         else
         {
-            System.out.println("Dumbass, you do not have the required paperwork.");
+            System.out.println("Dumbass, you do not have the required paperwork.  Hahahahahaha");
         }
     }
 }
